@@ -44,6 +44,7 @@ Below is the list of all the sources where the URDFs where obtained from.<br/>
     - [SpotMicroAI - Gitlab](https://gitlab.com/custom_robots/spotmicroai)
     - [Spot Micro](https://github.com/chvmp/spotmicro_description)
 - [Unitree Robotics All](https://github.com/unitreerobotics/unitree_ros)
+    - [Unitree Robotics' Youtube](https://www.youtube.com/@unitreerobotics7482)
     - [Unitree Robotics All - Modified for CHAMP](https://github.com/chvmp/unitree_ros)
     - [Unitree Robotics' A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description)
     - [Unitree Robotics' AliengoZ1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengoZ1_description)
