@@ -73,4 +73,5 @@ Below is the list of all the sources where the URDFs where obtained from.<br/>
 # Appendix
 
 ## Notes<br/>
-- NJIT-TOCABi files are too large for this repo.
+- NJIT-TOCABi files are too large for this repo.<br/>
+- Dream Walker usd files are too large. Could not commit instanceable_meshes.usd<br/>
