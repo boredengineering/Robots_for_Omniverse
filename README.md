@@ -16,7 +16,7 @@ List of robots converted to openUSD.<br/>
 ### Bipedal
 - [Agility Robotics](https://agilityrobotics.com/)
     - [Digit](https://github.com/adubredu/DigitRobot.jl)
-
+- [Unitree Robotics](https://www.unitree.com/h1/)
 
 ## URDF_descriptions
 It contains all the robot descriptions in URDF.<br/>
@@ -64,6 +64,7 @@ Below is the list of all the sources where the URDFs where obtained from.<br/>
 - [Agility Robotics' Cassie - UMich-BipedLab](https://github.com/UMich-BipedLab/cassie_description)
 - [Agility Robotics' Digit - DigitRobot.jl](https://github.com/adubredu/DigitRobot.jl)
 - [NJIT - TOCABI](https://github.com/cadop/tocabi)
+- [Unitree H1](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_h1)
 ### Manipulation
 - [GoogleAI ROBEL D'Kitty](https://github.com/google-research/robel-scenes)
 - [GoogleAI ROBEL D'Kitty - Modified for CHAMP](https://github.com/chvmp/dkitty_description)
