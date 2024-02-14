@@ -17,6 +17,7 @@ List of robots converted to openUSD.<br/>
 - [Agility Robotics](https://agilityrobotics.com/)
     - [Digit](https://github.com/adubredu/DigitRobot.jl)
 - [Unitree Robotics](https://www.unitree.com/h1/)
+- [NJIT - TOCABI](https://github.com/cadop/tocabi)
 
 ## URDF_descriptions
 It contains all the robot descriptions in URDF.<br/>
@@ -74,5 +75,5 @@ Below is the list of all the sources where the URDFs where obtained from.<br/>
 # Appendix
 
 ## Notes<br/>
-- NJIT-TOCABi files are too large for this repo.<br/>
+- NJIT-TOCABi has a high poly and low poly version, this repo has the low poly version [light_weight](https://github.com/cadop/tocabi/tree/main/light_weight).<br/>
 - Dream Walker usd files are too large. Could not commit instanceable_meshes.usd<br/>
