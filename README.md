@@ -77,3 +77,7 @@ Below is the list of all the sources where the URDFs where obtained from.<br/>
 ## Notes<br/>
 - NJIT-TOCABi has a high poly and low poly version, this repo has the low poly version [light_weight](https://github.com/cadop/tocabi/tree/main/light_weight).<br/>
 - Dream Walker usd files are too large. Could not commit instanceable_meshes.usd<br/>
+
+RobotEra TECHNOLOGY CO.,LTD.
+Founded in 2023, RobotEra TECHNOLOGY CO., LTD focuses on the R&D of embodied AI general-purpose humanoid robots.
+https://github.com/roboterax
